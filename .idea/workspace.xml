@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a469f30-5d04-430d-b1c3-4dd7dcc26ef0" name="Changes" comment="prova">
-      <change afterPath="$PROJECT_DIR$/src/ExerciseSpecification.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6a469f30-5d04-430d-b1c3-4dd7dcc26ef0" name="Changes" comment="lezione 18/10/2022" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +58,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666037493290</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="lezione 18/10/2022">
+      <created>1666101520843</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666101520843</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -78,6 +82,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="primo commit" />
     <MESSAGE value="prova" />
-    <option name="LAST_COMMIT_MESSAGE" value="prova" />
+    <MESSAGE value="lezione 18/10/2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="lezione 18/10/2022" />
   </component>
 </project>

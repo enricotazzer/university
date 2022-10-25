@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="745173e6-1c84-48a3-8ca0-c0328b282069" name="Changes" comment="logistic 2">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="745173e6-1c84-48a3-8ca0-c0328b282069" name="Changes" comment="phyton">
+      <change afterPath="$PROJECT_DIR$/logistic/src/Percorso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logistic/src/Spedizione.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logistic/src/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/logistic/src/Manager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit5 Test Class" />
+        <option value="Python Script" />
         <option value="Class" />
       </list>
     </option>
@@ -59,7 +62,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.editor.code.editing"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -187,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666703096290</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="phyton">
+      <created>1666703548190</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666703548190</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -221,7 +231,8 @@
     <MESSAGE value="cartella pyhton" />
     <MESSAGE value="logistic" />
     <MESSAGE value="logistic 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="logistic 2" />
+    <MESSAGE value="phyton" />
+    <option name="LAST_COMMIT_MESSAGE" value="phyton" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

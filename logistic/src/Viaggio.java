@@ -1,9 +1,10 @@
 import java.util.Date;
+import java.util.List;
 
 public class Viaggio {
     private Spedizione spedizione;
     //enumerazione sullo stato del viaggio
-    Cliente cliente;
+    List<Cliente> clienti; // 1 o piu
 
     public Viaggio(Spedizione spedizione){
         this.spedizione = spedizione;

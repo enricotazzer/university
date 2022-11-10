@@ -1,16 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="745173e6-1c84-48a3-8ca0-c0328b282069" name="Changes" comment="spedizione e percorso">
-      <change afterPath="$PROJECT_DIR$/logistic/src/Autocarro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistic/src/Citta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistic/src/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistic/src/Flotta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistic/src/Merce.java" afterDir="false" />
+    <list default="true" id="745173e6-1c84-48a3-8ca0-c0328b282069" name="Changes" comment="metodi obbligatori fatti">
+      <change afterPath="$PROJECT_DIR$/logistic/src/QuantityRequiredToBePositiveException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pilfa/pilfa.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pilfa/src/Articolo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pilfa/src/Azienda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pilfa/src/Bibita.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pilfa/src/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pilfa/src/Comune.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pilfa/src/Consegna.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pilfa/src/CruscottoInformativo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pilfa/src/Flotta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pilfa/src/ListinoPrezzi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pilfa/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pilfa/src/Ordine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pilfa/src/RegistroOrdini.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pilfa/src/Veicolo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pilfa/src/ZonaGeografica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logistic/src/Autocarro.java" beforeDir="false" afterPath="$PROJECT_DIR$/logistic/src/Autocarro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logistic/src/Flotta.java" beforeDir="false" afterPath="$PROJECT_DIR$/logistic/src/Flotta.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logistic/src/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/logistic/src/Manager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logistic/src/Percorso.java" beforeDir="false" afterPath="$PROJECT_DIR$/logistic/src/Percorso.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logistic/src/Spedizione.java" beforeDir="false" afterPath="$PROJECT_DIR$/logistic/src/Spedizione.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logistic/src/Viaggio.java" beforeDir="false" afterPath="$PROJECT_DIR$/logistic/src/Viaggio.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -225,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666704926927</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="metodi obbligatori fatti">
+      <created>1667865739998</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1667865739998</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -261,7 +281,8 @@
     <MESSAGE value="logistic 2" />
     <MESSAGE value="phyton" />
     <MESSAGE value="spedizione e percorso" />
-    <option name="LAST_COMMIT_MESSAGE" value="spedizione e percorso" />
+    <MESSAGE value="metodi obbligatori fatti" />
+    <option name="LAST_COMMIT_MESSAGE" value="metodi obbligatori fatti" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
